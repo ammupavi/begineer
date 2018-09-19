@@ -1,7 +1,7 @@
-i=10
-if(i<0):
-  print("i is negative");
-elif(i>0):
-  print("i is positive");
+x=-3
+if x<0:
+    print "negative"
+elif(x>0):
+    print("positive")   
 else:
-  print("i is zero"); 
+    print "invalid"
