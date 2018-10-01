@@ -1,0 +1,11 @@
+a=int(input("enter a first number:")
+b=int(input("enter a second number:")
+c=int(input("enter a third number:")
+d=[]
+d.append(a)
+d.append(b)
+d.append(c)
+for i in range(0,3)
+  for j ibn range(0,3)
+     for k in range(0,3)
+print(d[i],d[j],d[k])     
